@@ -22,7 +22,7 @@
 
 ## How to Use
 
-To use Alura Play, simply open the [live demo link](#) in your web browser. Navigate through the different sections using the side menu, explore videos, and enjoy learning!
+To use Alura Play, simply open the [https://carolwainstein.github.io/alura-play/](#) in your web browser. Navigate through the different sections using the side menu, explore videos, and enjoy learning!
 
 ## Technologies Used
 
