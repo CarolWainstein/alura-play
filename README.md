@@ -30,7 +30,6 @@ To use Alura Play, simply open the [live demo link](#) in your web browser. Navi
 
 - HTML
 - CSS
-- JavaScript
 
 ## Contributing
 
