@@ -6,7 +6,6 @@
 
 ## Table of Contents
 - [Features](#features)
-- [Screenshots](#screenshots)
 - [How to Use](#how-to-use)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
