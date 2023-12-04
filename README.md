@@ -22,14 +22,6 @@
 
 - **Footer:** The footer is divided into sections, each focusing on a specific topic or category such as Programming, Data Science, UX & Design, and more.
 
-## Screenshots
-
-![Screenshot 1](./screenshots/screenshot1.png)
-*Description of screenshot 1.*
-
-![Screenshot 2](./screenshots/screenshot2.png)
-*Description of screenshot 2.*
-
 ## How to Use
 
 To use Alura Play, simply open the [live demo link](#) in your web browser. Navigate through the different sections using the side menu, explore videos, and enjoy learning!
